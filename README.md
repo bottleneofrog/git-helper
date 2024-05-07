@@ -8,5 +8,6 @@ Git или SCM (**S**ource **C**ontrol **M**anagement) - консольный и
 #### базовые консольные команды:
 * pwd - **p**rint **w**orking **d**irectory - вывод текущей директории
 * cd - **c**hange **d**irectory - смена директории
+  
   cd ~ - смена директории на домашнюю
 
